@@ -1,0 +1,317 @@
+
+[
+   
+    {
+      "type": "offhand",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 484,
+      "brand": "Allensolley",
+      "material": "Polyester",
+      "image_url": "https://m.media-amazon.com/images/I/41j2wUsRTnL._AC_UL320_.jpg"
+    },
+    {
+      "type": "offhand",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 789,
+      "brand": "Allensolley",
+      "material": "Linen",
+      "image_url": "https://m.media-amazon.com/images/I/81d91dsBtdL._AC_UL320_.jpg"
+    },
+    {
+      "type": "offhand",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 854,
+      "brand": "Allensolley",
+      "material": "Flannel",
+      "image_url": "https://m.media-amazon.com/images/I/71SNEa-l3xL._AC_UL320_.jpg"
+    },
+    {
+      "type": "offhand",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 625,
+      "brand": "Peterengland",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/71lKVTIW5QL._AC_UL320_.jpg"
+    },
+    {
+      "type": "offhand",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 900,
+      "brand": "Peterengland",
+      "material": "Spandex",
+      "image_url": "https://m.media-amazon.com/images/I/71mnLHAdO1L._AC_UL320_.jpg"
+    },
+    {
+      "type": "offhand",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 425,
+      "brand": "Peterengland",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/61vjXv8BwEL._AC_UL320_.jpg"
+    },
+    {
+      "type": "offhand",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 565,
+      "brand":"Peterengland",
+      "material": "Linen",
+      "image_url": "https://m.media-amazon.com/images/I/612yaMG7F7L._AC_UL320_.jpg"
+    },
+    {
+      "type": "offhand",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 985,
+      "brand": "Peterengland",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/717Qr4ImV+L._AC_UL320_.jpg"
+    },
+    {
+      "type": "offhand",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 850,
+      "brand": "Levis",
+      "material": "Polyester",
+      "image_url": "https://m.media-amazon.com/images/I/711LeSGXlcL._AC_UL320_.jpg"
+    },
+    {
+      "type": "casual",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 479,
+      "brand": "Arrow",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/71WypRP-fEL._AC_UL320_.jpg"
+    },
+    {
+      "type": "casual",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 545,
+      "brand": "Arrow",
+      "material": "Polyester",
+      "image_url": "https://m.media-amazon.com/images/I/61uBH8gIIIL._AC_UL320_.jpg"
+    },
+    {
+      "type": "casual",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 600,
+      "brand": "Arrow",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/81boXIR+s3L._AC_UL320_.jpg"
+    },
+    {
+      "type": "casual",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 720,
+      "brand": "Johnplayers",
+      "material": "Rayon",
+      "image_url": "https://m.media-amazon.com/images/I/61ZbKLlt0sL._AC_UL320_.jpg"
+    },
+    {
+      "type": "casual",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 780,
+      "brand": "Johnplayers",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/71kE75JMKjL._AC_UL320_.jpg"
+    },
+    {
+      "type": "casual",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 980,
+      "brand": "Johnplayers",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/518BmShQpwL._AC_UL320_.jpg"
+    },
+    {
+      "type": "casual",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 898,
+      "brand": "Johnplayers",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/71K11t1x7XL._AC_UL320_.jpg"
+    },
+    {
+      "type": "casual",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 700,
+      "brand": "Johnplayers",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/51oqHcH9mcL._AC_UL320_.jpg"
+    },
+    {
+      "type": "casual",
+      "stock": {"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 645,
+      "brand": "Johnplayers",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/617y0giDeVL._AC_UL320_.jpg"
+    },
+    {
+      "type": "casual",
+      "stock": {"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 525,
+      "brand": "Peterengland",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/81Ey+UJyIIL._AC_UL320_.jpg"
+    },
+    {
+      "type": "formal",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 1050,
+      "brand": "Peterengland",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/51uxqV+vQtL._AC_UL320_.jpg"
+    },
+    {
+      "type": "formal",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 1200,
+      "brand": "Peterengland",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/61zWKA0GbaL._AC_UL320_.jpg"
+    },
+    {
+      "type": "formal",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 1200,
+      "brand": "Allensolley",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/71AtRc6-0-L._AC_UL320_.jpg"
+    },
+    {
+      "type": "formal",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price":780 ,
+      "brand": "Allensolley",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/616-JiwzBLL._AC_UL320_.jpg"
+    },
+    {
+      "type": "formal",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price":560,
+      "brand": "Allensolley",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/71zPpzrMFsL._AC_UL320_.jpg"
+    },
+    {
+      "type": "formal",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 680,
+      "brand": "Allensolley",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/81UGR4GFaJL._AC_UL320_.jpg"
+    },
+    {
+      "type": "formal",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 892,
+      "brand": "Levis",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/71LzK0bTHIL._AC_UL320_.jpg"
+    },
+    {
+      "type": "formal",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 565,
+      "brand": "Levis",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/71IXyjSGR3L._AC_UL320_.jpg"
+    },
+    {
+      "type": "formal",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 480,
+      "brand": "Levis",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/61XzMtVz3PL._AC_UL320_.jpg"
+    },
+    {
+      "type": "formal",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 875,
+      "brand": "Levis",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/610wX17aqSL._AC_UL320_.jpg"
+    },
+    {
+      "type": "chinese",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 785,
+      "brand": "Levis",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/71K4ZJCCdzL._AC_UL320_.jpg"
+    },
+    {
+      "type": "chinese",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 985,
+      "brand": "Arrow",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/71KO6dvAd-L._AC_UL320_.jpg"
+    },
+    {
+      "type": "chinese",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 665,
+      "brand": "Arrow",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/41vR9Z+TvUL._AC_UL320_.jpg"
+    },
+    {
+      "type": "chinese",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 515,
+      "brand": "Arrow",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/71-Fr-rw3xL._AC_UL320_.jpg"
+    },
+    {
+      "type": "chinese",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 875,
+      "brand": "Arrow",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/51+pZYGfF5L._AC_UL320_.jpg"
+    },
+    {
+      "type": "chinese",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 700,
+      "brand": "Arrow",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/61Y4RD39OFL._AC_UL320_.jpg"
+    },
+    {
+      "type": "chinese",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 1300,
+      "brand": "Allensolley",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/513shjyv-tL._AC_UL320_.jpg"
+    },
+    {
+      "type": "chinese",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 1999,
+      "brand": "Allensolley",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/71Zl7MVltuL._AC_UL320_.jpg"
+    },
+    {
+      "type": "chinese",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 970,
+      "brand": "Allensolley",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/61gSJNwXJ0L._AC_UL320_.jpg"
+    },
+    {
+      "type": "chinese",
+      "stock":{"S":5, "M":8, "L":9, "XL":3, "XXL":2},
+      "price": 885,
+      "brand": "Allensolley",
+      "material": "Cotton",
+      "image_url": "https://m.media-amazon.com/images/I/61gne1cCbJL._AC_UL320_.jpg"
+    }
+  ]
+  
